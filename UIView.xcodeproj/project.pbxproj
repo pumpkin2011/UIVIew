@@ -13,6 +13,7 @@
 		0E2680651EFA552A0046807C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E2680631EFA552A0046807C /* Main.storyboard */; };
 		0E2680671EFA552A0046807C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E2680661EFA552A0046807C /* Assets.xcassets */; };
 		0E26806A1EFA552A0046807C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E2680681EFA552A0046807C /* LaunchScreen.storyboard */; };
+		0E2680721EFB396C0046807C /* bg1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E2680711EFB396C0046807C /* bg1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0E2680661EFA552A0046807C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E2680691EFA552A0046807C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E26806B1EFA552A0046807C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E2680711EFB396C0046807C /* bg1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		0E2680591EFA552A0046807C /* UIView */ = {
 			isa = PBXGroup;
 			children = (
+				0E2680711EFB396C0046807C /* bg1.png */,
 				0E26805D1EFA552A0046807C /* AppDelegate.h */,
 				0E26805E1EFA552A0046807C /* AppDelegate.m */,
 				0E2680601EFA552A0046807C /* ViewController.h */,
@@ -138,6 +141,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E2680721EFB396C0046807C /* bg1.png in Resources */,
 				0E26806A1EFA552A0046807C /* LaunchScreen.storyboard in Resources */,
 				0E2680671EFA552A0046807C /* Assets.xcassets in Resources */,
 				0E2680651EFA552A0046807C /* Main.storyboard in Resources */,
